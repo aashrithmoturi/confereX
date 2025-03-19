@@ -8,7 +8,6 @@
 - <b>Languages and Technologies used : </b> HTML, CSS, JS/Bootstrap & Firebase
 - <b>Author Name :</b> Aashrith Moturi, Prashant Singh Chauhan, Neha Singh, Pradumn Kumar & Vimal Vinayak
 
-- <b>Website link : </b>[Click here✨](https://neha-oo1.github.io/confereX/)
 
 - <b>Login Details : </b> 
   - Username: user
